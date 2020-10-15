@@ -1,4 +1,4 @@
-namespace DM.Teige.App.Helpers
+namespace ValidaCPF.Helpers
 {
     /// <summary>
     /// Realiza a validação do CPF
